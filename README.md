@@ -1,5 +1,6 @@
 # HyperSwap Token List
 
+
 This repository is dedicated to the list of tokens registered on the HyperSwap exchange. It serves as the central place where tokens can be added, allowing them to be displayed and used on the DApp, including showing their logos.
 
 ## How to Add a Token
