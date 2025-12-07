@@ -1,3 +1,9 @@
+> **⚠️ THIS REPOSITORY IS OUTDATED**
+>
+> This project is no longer maintained and should not be used in production.
+>  
+> Please visit the new repository here: **[HYPERSWAP-TOKEN-LIST](https://github.com/HyperSwap-Labs/hyperswap-token-list)**.
+
 # HyperSwap Token List
 
 This repository is dedicated to the list of tokens registered on the HyperSwap exchange. It serves as the central place where tokens can be added, allowing them to be displayed and used on the DApp, including showing their logos.
